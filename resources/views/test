@@ -1,0 +1,5 @@
+ <!-- Calendar css -->
+        <link href="{{ asset('backend/assets/libs/fullcalendar/main.min.css') }}" rel="stylesheet" type="text/css" />
+
+         <!-- Calendar init -->
+         <script src="{{ asset('backend/assets/js/pages/calendar.init.js') }}"></script>
